@@ -3,7 +3,7 @@ let passage = document.getElementById("container");
 
 passage.addEventListener("click", function () {
   picture.style.display = "none";
-  passage.textContent = "Hello";
+  passage.textContent = "How many lives do cats have?";
 });
 
 
